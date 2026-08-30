@@ -12,11 +12,7 @@
 ### Live in Belarus. Born in ~~USSR~~ Belarus.
 
 - ## And what about my skills?
-<<<<<<< HEAD
 ### https://github.com/Merman-95/RepoTest.git
-=======
-### There is no skills for now
->>>>>>> 738f0ababe5db0b7f054291a86c46a245fce4c3f
 
 - ## I have alittle experience, but im tried to do better
 
