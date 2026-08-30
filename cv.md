@@ -12,7 +12,7 @@
 ### Live in Belarus. Born in ~~USSR~~ Belarus.
 
 - ## And what about my skills?
-###
+### There is no skills for now
 
 - ## I have alittle experience, but im tried to do better
 
