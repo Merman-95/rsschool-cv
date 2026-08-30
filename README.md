@@ -1,2 +1,1 @@
-# rsschool-cv
-This is the first CV task
+https://merman-95.github.io/rsschool-cv/cv
