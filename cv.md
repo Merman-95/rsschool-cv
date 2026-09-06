@@ -1,7 +1,7 @@
 # **This is my Curriculum Vitae(CV)**
 <img src="./images.png" class='img'>
 
-- ## My name is Bondar Ilya
+- ## My name is Bondar Ilya (Mermann)
 
 - ## This is my contasts:
 ### 1)prohodimec.95@mail.ru
